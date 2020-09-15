@@ -1,0 +1,5 @@
+<launch>
+    <!-- Topics Quiz launch file -->
+    <node pkg="topics_quiz" type="topics_quiz.py" name="topics_quiz_node"  output="screen">
+    </node>
+</launch>
